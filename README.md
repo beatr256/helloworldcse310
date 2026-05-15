@@ -15,6 +15,6 @@ The software prints "Hello World" to the screen. This classic program demonstrat
 
 # Useful Websites
 
-* [GitHub Documentation](https://docs.github.com/en)  
+* [GitHub Documentation](https://github.com/beatr256/helloworldcse310sno)  
 * [Visual Studio Code Docs](https://code.visualstudio.com/docs)  
 * [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)  
